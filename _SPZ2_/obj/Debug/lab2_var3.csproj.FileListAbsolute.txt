@@ -1,0 +1,4 @@
+C:\Users\alex2\source\repos\lab2_var3\obj\Debug\lab2_var3.csprojAssemblyReference.cache
+C:\Users\alex2\source\repos\lab2_var3\obj\Debug\lab2_var3.Properties.Resources.resources
+C:\Users\alex2\source\repos\lab2_var3\obj\Debug\lab2_var3.csproj.GenerateResource.cache
+C:\Users\alex2\source\repos\lab2_var3\obj\Debug\lab2_var3.csproj.CoreCompileInputs.cache

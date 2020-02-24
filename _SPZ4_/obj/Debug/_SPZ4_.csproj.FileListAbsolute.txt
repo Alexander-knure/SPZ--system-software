@@ -1,0 +1,10 @@
+C:\Users\alex2\source\repos\_SPZ4_\bin\Debug\_SPZ4_.exe.config
+C:\Users\alex2\source\repos\_SPZ4_\bin\Debug\_SPZ4_.exe
+C:\Users\alex2\source\repos\_SPZ4_\bin\Debug\_SPZ4_.pdb
+C:\Users\alex2\source\repos\_SPZ4_\obj\Debug\_SPZ4_.MainForm.resources
+C:\Users\alex2\source\repos\_SPZ4_\obj\Debug\_SPZ4_.Properties.Resources.resources
+C:\Users\alex2\source\repos\_SPZ4_\obj\Debug\_SPZ4_.csproj.GenerateResource.cache
+C:\Users\alex2\source\repos\_SPZ4_\obj\Debug\_SPZ4_.csproj.CoreCompileInputs.cache
+C:\Users\alex2\source\repos\_SPZ4_\obj\Debug\_SPZ4_.exe
+C:\Users\alex2\source\repos\_SPZ4_\obj\Debug\_SPZ4_.pdb
+C:\Users\alex2\source\repos\_SPZ4_\obj\Debug\_SPZ4_.csprojAssemblyReference.cache

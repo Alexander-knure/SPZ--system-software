@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Factory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <c>
+    <Sleep>5000</Sleep>
+    <CostBuyingMaterials>150</CostBuyingMaterials>
+    <CountBuyingMaterials>100</CountBuyingMaterials>
+    <CostManufactory>500</CostManufactory>
+    <CostProduce>100</CostProduce>
+    <CountProduceMaterials>100</CountProduceMaterials>
+    <CountProduceProduction>50</CountProduceProduction>
+    <CountSellingProduction>50</CountSellingProduction>
+    <CostProduction>2000</CostProduction>
+  </c>
+  <CurrentMode>Awaiting</CurrentMode>
+  <Manufactories>1</Manufactories>
+  <MoneyCount>1000</MoneyCount>
+  <MaterialsCount>200</MaterialsCount>
+  <ProductionCount>20</ProductionCount>
+  <Volume>10</Volume>
+</Factory>
